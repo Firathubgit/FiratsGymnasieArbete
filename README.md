@@ -116,6 +116,6 @@ Player behaviour lives in a `PlayerController` MonoBehaviour that handles moveme
 
 **Firat Kaya**
 
-- Portfolio: add your portfolio link here
+- Portfolio: Firatportfolio.com
 - GitHub: [@Firathubgit](https://github.com/Firathubgit)
 - LinkedIn: [Firat Kaya](https://www.linkedin.com/in/firat-kaya-baba45267)
